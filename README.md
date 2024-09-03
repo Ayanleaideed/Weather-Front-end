@@ -7,7 +7,7 @@ WeatherPulse AI is a modern weather application that provides real-time weather 
 - **Video Demo**: [Watch the demo video](https://youtube.com)
 - **Live Frontend App**: [https://weather-front-end-sigma.vercel.app/](https://weather-front-end-sigma.vercel.app/)
 - **Backend REST API**: [https://weather-api-backend-eta.vercel.app/api/weather/](https://weather-api-backend-eta.vercel.app/api/weather/)
-- **Backend Github repo: https://github.com/Ayanleaideed/Weather-api-backend
+- **Backend Github repo**: https://github.com/Ayanleaideed/Weather-api-backend
 
 ## Features
 - **Current Weather Display**: Shows up-to-date weather information for a specified city.
