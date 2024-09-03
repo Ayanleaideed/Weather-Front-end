@@ -4,7 +4,7 @@
 WeatherPulse AI is a modern weather application that provides real-time weather information and forecasts with an AI-powered summary feature. This repository contains the frontend code for the WeatherPulse AI project, developed as part of the Software Engineer Intern - AI/ML Application Tech Assessment.
 
 ## Quick Links
-- **Video Demo**: [Watch the demo video]https://github.com/user-attachments/assets/5b17fb26-ffe7-4bfc-b023-d4efe5fc430b
+- **Video Demo**: [Watch the demo video] (https://github.com/user-attachments/assets/5b17fb26-ffe7-4bfc-b023-d4efe5fc430b)
 
 
 - **Live Frontend App**: [https://weather-front-end-sigma.vercel.app/](https://weather-front-end-sigma.vercel.app/)
