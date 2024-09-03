@@ -3,6 +3,11 @@
 ## Overview
 WeatherPulse AI is a modern weather application that provides real-time weather information and forecasts with an AI-powered summary feature. This repository contains the frontend code for the WeatherPulse AI project, developed as part of the Software Engineer Intern - AI/ML Application Tech Assessment.
 
+## Quick Links
+- **Video Demo**: [Watch the demo video](https://youtube.com)
+- **Live Frontend App**: [https://weather-front-end-sigma.vercel.app/](https://weather-front-end-sigma.vercel.app/)
+- **Backend REST API**: [https://weather-api-backend-eta.vercel.app/api/weather/](https://weather-api-backend-eta.vercel.app/api/weather/)
+
 ## Features
 - **Current Weather Display**: Shows up-to-date weather information for a specified city.
 - **5-Day Forecast**: Provides a detailed 5-day weather forecast.
@@ -22,7 +27,7 @@ WeatherPulse AI is a modern weather application that provides real-time weather 
 1. Clone the repository:
    ```
    git clone https://github.com/Ayanleaideed/Weather-Front-end.git
-   cd weather-front-end
+   cd Weather-Front-end
    ```
 
 2. Open `index.html` in a web browser or set up a local server to serve the frontend files.
@@ -38,7 +43,7 @@ WeatherPulse AI is a modern weather application that provides real-time weather 
 6. Switch between light and dark modes using the theme toggle button.
 
 ## API Integration
-This frontend integrates with the WeatherPulse AI backend API. Ensure the backend is set up and running. The API endpoint is set to:
+This frontend integrates with the WeatherPulse AI backend API. The API endpoint is set to:
 ```
 https://weather-api-backend-eta.vercel.app/api/weather/
 ```
@@ -56,4 +61,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Font Awesome for the weather icons
 
 ---
-Developed with ❤️ by Ayanle
+Developed with ❤️ by Ayanle Aideed
